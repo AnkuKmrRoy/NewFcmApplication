@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659024505985",
+    "firebase_url": "https://mydemofcmexp.firebaseio.com",
+    "project_id": "mydemofcmexp",
+    "storage_bucket": "mydemofcmexp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659024505985:android:3b7f424865ca950d",
+        "android_client_info": {
+          "package_name": "com.tfe.newfcmapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659024505985-ffo46p6ca9ljo2spk86bmhnkhtm2q1li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYafp95bK2Uc57x9Qjq97Wy8nLq-1FAwU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
